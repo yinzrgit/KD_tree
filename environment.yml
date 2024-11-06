@@ -1,0 +1,4 @@
+name: kd_tree_env
+dependencies:
+  - python=3.8
+  - numpy
